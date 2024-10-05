@@ -11,9 +11,25 @@ export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+    const linkedinUrl = "https://linkedin.com/in/javierestraviz"
+    const siteAuthor = "Javier Estraviz"
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+          <ul>
+              {Object.entries(links).map(
+                  ([text, link]) => {
+                      return (
+                          <li>
+                              <a href={link}>{text}</a>
+                          </li>
+                      )
+                  }
+              )}
+          </ul>
+          <p style="font-size: x-small; text-align: center;">
+          <span>© {year} <a href={linkedinUrl}>{siteAuthor}</a>. {i18n(cfg.locale).components.footer.createdWith}&nbsp;<a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>.</span>
+          </p>
+{/*         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
@@ -23,7 +39,7 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
       </footer>
     )
   }
