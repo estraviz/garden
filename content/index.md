@@ -17,5 +17,5 @@ If you want to know a bit more about me, you can visit my [[about]] page.
 
 You can explore the site by using the search bar at the top, or the menu at the bottom of each page. Another option is to check the list of all the indexed [[tags]].
 
-Another alternative... Why not trying the graph at the top?
+Another alternative... Why not trying the graph?
 
