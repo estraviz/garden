@@ -1,3 +1,132 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.sidebar.left {
+    h1 {
+        font-size: 1.05rem;
+        vertical-align: middle;
+    }
+}
+
+.sidebar.right {
+    h3 {
+        a {
+            font-size: small;
+            color: var(--dark);
+        }
+    }
+}
+
+#toc-content ul {
+    li {
+        a {
+            font-size: small;
+            color: var(--dark);
+        }
+    }
+}
+
+.backlinks ul {
+    li {
+        a {
+            color: var(--dark);
+            font-size: small;
+        }
+    }
+}
+
+.page-listing ul {
+    li {
+        a {
+            font-style: small;
+            color: var(--secondary);
+        }
+    }
+}
+
+a {
+    &.internal.tag-link {
+        color: var(--dark);
+        font-size: small;
+    }
+}
+
+.page-header {
+    & .popover-hint ul {
+        & .tags {
+            &.internal.tag-link {
+                color: var(--secondary);
+            }
+        }
+    }
+}
+
+footer {
+    ul  {
+        display:flex;
+        justify-content: center;
+        li {
+            a {
+                color: var(--dark);
+            }
+        }
+    }
+}
+footer p {
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+}
+
+footer a {
+    color: var(--dark);
+}
+
+h2, h3, h4, h5 {
+    font-weight: normal;
+    margin-bottom: 0.5rem;
+    color: var(--secondary);
+}
+
+p.content-meta, p.meta {
+    font-size: x-small;
+}
+
+body {
+    font-size: 14px;
+}
+
+code {
+    background-color: var(--shiki-light-bg);
+}
+
+.logo {
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+#footer-links ul {
+    list-style-type: none;
+    li {
+      display: inline-block;
+    }
+    li a {
+      padding: 0 1em;
+    }
+  }
+
+.page {
+    border-top: 4px solid #2bbc8a;
+}
+
+/*
+img {
+    display: block;
+    margin: auto;
+}
+*/

@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "🌱 The Garden",
     },
     footer: {
       createdWith: "Created with",
