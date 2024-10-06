@@ -1,5 +1,6 @@
 ---
 title: My 2022 Year in Books
+date: 2024-10-03
 ---
 Below is the list of the books I read during 2022. Some statistics:
 

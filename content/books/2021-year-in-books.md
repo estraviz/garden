@@ -1,5 +1,6 @@
 ---
 title: My 2021 Year in Books
+date: 2024-10-02
 ---
 Below is the list of the books I read during 2021. Some statistics:
 

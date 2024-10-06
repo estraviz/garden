@@ -1,5 +1,6 @@
 ---
 title: My 2024 Year in Books
+date: 2024-10-05
 ---
 These are the books I've read during 2024 so far.
 
