@@ -1,8 +1,15 @@
 ---
 title: My 2024 Year in Books
-date: 2024-10-05
+date: 2025-05-10
 ---
-These are the books I've read during 2024 so far.
+Below is the list of the books I read during 2024. Here are the statistics:
+
+* Total books read: `31 books`.
+* Total pages read: `9.601 pages`.
+* Shortest book, **Sharma (2018). Architecting Data Lakes, 2nd Edition**: `51 pages`.
+* Longest book, **Bird, Sherwin (2005). Prometeo americano: El triunfo y la tragedia de J. Robert Oppenheimer**: `909 pages`.
+* Average book length: `309 pages`.
+* My average rating: `⭐⭐⭐⭐ 4.0`.
 
 _**Notes**: The **Published** date corresponds to the first version of the book. The **Rating** ranges from_ ⭐ _to_ ⭐⭐⭐⭐⭐ _stars and is just my opinion about the book (you may have to scroll right in the table, depending on your device and screen size). The table is ordered chronologically by my reading **Finished** date._
 
@@ -37,3 +44,5 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Allosso-2022-How-to-Make-Notes-and-Write.jpeg]]                    | Alloso, Dan; Allosso, S. F.                                |   2022    | How to Make Notes and Write                                                                                                                                | English  | Sep 5, 2024  |  ⭐⭐⭐   |
 | ![[Tammet-2006-Nacido-en-un-dia-azul.jpeg]]                           | Tammet, Daniel                                             |   2006    | Nacido en un día azul                                                                                                                                      | Spanish  | Sep 14, 2024 |  ⭐⭐⭐   |
 | ![[Land-2019-Criada.jpeg]]                                            | Land, Stephanie                                            |   2019    | Criada: Trabajo duro, sueldos bajos y la voluntad de supervivencia de una madre                                                                            | Spanish  | Sep 18, 2024 |  ⭐⭐⭐⭐  |
+| ![[Poundstone-2015-Carl-Sagan.jpeg]]                                            | Poundstone, William                                            |   2015    | Carl Sagan, una vida en el cosmos                                                                            | Spanish  | Nov 6, 2024 |  ⭐⭐⭐   |
+| ![[Carroll-2016-Las-leyes-del-Serengeti.jpeg]]                                            | Carroll, Sean B.                                            |   2016    | Las leyes del Serengeti: Cómo funciona la vida y por qué es importante saberlo                                                                            | Spanish  | Nov 17, 2024 |  ⭐⭐⭐⭐  |
