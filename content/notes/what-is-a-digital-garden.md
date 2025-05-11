@@ -1,3 +1,3 @@
 ---
-title: What is a Digital Garden?
+title: 📝 What is a Digital Garden?
 ---

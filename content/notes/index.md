@@ -1,4 +1,4 @@
 ---
 title: notes
 ---
-This section contains some of the notes that constitute the authentic piece of this whole website: the [[Digital Garden]]. The idea not to classify the notes in folders, as one note might belong to more than one folder (category). 
+This section contains some of the notes that constitute the authentic piece of this whole website: the [[what-is-a-digital-garden|Digital Garden]]. The idea not to classify the notes in folders, as one note might belong to more than one folder (category).

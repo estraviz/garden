@@ -1,5 +1,5 @@
 ---
-title: 📚 So Good They Can't Ignore You
+title: 📚 So Good They Can't Ignore You - Newport (2012)
 description: Why Skills Trump Passion in the Quest for Work You Love.
 date: 2022-07-30
 tags:

@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "❓ about": "/about",
-      "🚀 now": "/now",
       "📅 posts": "/posts",
       "📝 notes": "/notes",
       "📖 books ": "/books",
