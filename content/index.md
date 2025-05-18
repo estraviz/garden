@@ -1,5 +1,5 @@
 ---
-title: 🏡 Welcome to 'TheDataIsFlat.com'
+title: ✨ Welcome to 'TheDataIsFlat.com'
 description: Introduction to my Digital Garden.
 date: 2024-03-19
 tags:

@@ -77,7 +77,16 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (f1, f2) => {
+          if (f1.slug?.startsWith("notes/") && f2.slug?.startsWith("notes/")) {
+            const title1 = f1.frontmatter?.title?.replace(/^[^\w\s]+\s*/, '') ?? ''
+            const title2 = f2.frontmatter?.title?.replace(/^[^\w\s]+\s*/, '') ?? ''
+            return title1.localeCompare(title2)
+          }
+          return (f2.dates?.created?.getTime() ?? 0) - (f1.dates?.created?.getTime() ?? 0)
+        }
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
