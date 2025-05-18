@@ -8,4 +8,4 @@ tags:
 
 References:
 
-- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_jobs) on Wikipedia.
+- [Steve Jobs on Wikipedia](https://en.wikipedia.org/wiki/Steve_jobs).
