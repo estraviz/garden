@@ -2,7 +2,7 @@
 title: 🗓️ My 2️⃣0️⃣2️⃣5️⃣ Year in Books
 date: 2025-05-18
 ---
-Below is the list of the books I've read during 2025, up to now. Here are the statistics:
+Below is the list of the books I've read during 2025, up to now.
 
 _**Notes**: The **Published** date corresponds to the first version of the book. The **Rating** ranges from_ ⭐ _to_ ⭐⭐⭐⭐⭐ _stars and is just my opinion about the book (you may have to scroll right in the table, depending on your device and screen size). The table is ordered chronologically by my reading **Finished** date._
 
