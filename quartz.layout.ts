@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "❓ about": "/about",
       "📅 posts": "/posts",
-      "📝 notes": "/notes",
-      "📖 books ": "/books",
+      "🗃️ notes": "/notes",
+      "📚 books ": "/books",
     },
   }),
 }

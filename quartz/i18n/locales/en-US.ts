@@ -22,7 +22,7 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
+      title: "🔙 Backlinks",
       noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
@@ -36,7 +36,7 @@ export default {
       createdWith: "Created with",
     },
     graph: {
-      title: "Graph View",
+      title: "🕸️ Graph View",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -73,8 +73,8 @@ export default {
         count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
     tagContent: {
-      tag: "Tag",
-      tagIndex: "Tag Index",
+      tag: "🏷️ Tag",
+      tagIndex: "🔖 Tag Index",
       itemsUnderTag: ({ count }) =>
         count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
       showingFirst: ({ count }) => `Showing first ${count} tags.`,

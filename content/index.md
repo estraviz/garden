@@ -1,5 +1,5 @@
 ---
-title: Welcome to 'TheDataIsFlat.com'
+title: 🏡 Welcome to 'TheDataIsFlat.com'
 description: Introduction to my Digital Garden.
 date: 2024-03-19
 tags:
@@ -18,4 +18,3 @@ If you want to know a bit more about me, you can visit my [[about]] page.
 You can explore the site by using the search bar at the top, or the menu at the bottom of each page. Another option is to check the list of all the indexed [[tags]].
 
 Another alternative... Why not trying the graph?
-

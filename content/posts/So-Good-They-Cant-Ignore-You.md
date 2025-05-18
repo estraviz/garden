@@ -1,10 +1,9 @@
 ---
-title: 📚 So Good They Can't Ignore You - Newport (2012)
+title: 📖 So Good They Can't Ignore You
 description: Why Skills Trump Passion in the Quest for Work You Love.
-date: 2022-07-30
+date: 2022-07-30 01:00
 tags:
   - book-review
-  - snowball-effect
 ---
 
 I have read twice this book from [^1],[^2] **[[Cal Newport]]**, a book that I've specially enjoyed:
@@ -45,21 +44,21 @@ Other ideas emphasized by the author:
 - Newport introduces the concept of **career capital**:
   - He tells the story of a person who had significant career capital in marketing but decided to make a radical shift into the world of yoga, without fully considering what he was losing from his career capital and what he was missing in this new profession. These decisions caused his expectations to be unmet and led him to suffer financial hardship.
 
-## `#` The case of Steve Jobs
+## `#` The case of [[Steve Jobs]]
 
-The best-known case he describes is that of [Steve Jobs](https://www.wikiwand.com/es/Steve_Jobs), co-founder of <i class="fa-brands fa-apple"></i> [Apple](https://www.apple.com/), about whom he suggests we should "do what he did, not what he said," referring to [a well-known talk he gave] (https://www.youtube.com/watch?v=hXXwFG3_x2g). En sus comienzos en la universidad, Jobs no tenía muy claro a qué dedicarse. However, as soon as a business opportunity presented itself, he threw himself into it and ended up developing a highly successful (and [somewhat resounding](https://www.heraldousa.com/tendencias/2022/3/2/por-que-despidieron-steve-jobs-de-apple-en-1985-20820.html)) career, making him one of the tech gurus of our time.
+The best-known case he describes is that of [[Steve Jobs]], co-founder of <i class="fa-brands fa-apple"></i> [Apple](https://www.apple.com/), about whom he suggests we should "do what he did, not what he said," referring to [a well-known talk he gave](https://www.youtube.com/watch?v=hXXwFG3_x2g). En sus comienzos en la universidad, Jobs no tenía muy claro a qué dedicarse. However, as soon as a business opportunity presented itself, he threw himself into it and ended up developing a highly successful (and [somewhat resounding](https://www.heraldousa.com/tendencias/2022/3/2/por-que-despidieron-steve-jobs-de-apple-en-1985-20820.html)) career, making him one of the tech gurus of our time.
 
-## `#` The Snowball Effect
+## `#` The [[Snowball Effect]]
 
 Another important idea the book conveys:
 
-- If you work over time to become better at something, it triggers a [**snowball effect**](https://en.wikipedia.org/wiki/Snowball_effect): as we gain proficiency at something and improve our skills, our passion for it also grows.
+- If you work over time to become better at something, it triggers the [[Snowball Effect|Snowball Effect:]] as we gain proficiency at something and improve our skills, our passion for it also grows.
 
 Newport's book was published in 2012, the same year as his talk to <i class="fa-brands fa-google"></i> [Google](https://www.google.com/) employees, a video of which I've included below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwOdU02SE0w?si=VEbWeYsAg7QLDHQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-By the way, the title is taken from a quote by American actor [**Steve Martin**](https://www.wikiwand.com/es/Steve_Martin) ([video](https://www.youtube.com/watch?v=teAvv6jnuXY)). If you don't know anything about Steve Martin, we suggest you read the link above and you'll come across a guy with a very interesting life.
+By the way, the title is taken from a quote by American actor [[Steve Martin]] ([video](https://www.youtube.com/watch?v=teAvv6jnuXY)). If you don't know anything about Steve Martin, we suggest you read the link above and you'll come across a guy with a very interesting life.
 
 [^1]: English version: [_Newport, C. (2012). So good they can't ignore you : why skills trump passion in the quest for work you love. Piatkus._](https://amzn.to/3BrQ9fL)
 [^2]: Spanish version: [_Newport, C. (2017). Hazlo tan bien que no puedan ignorarte: por qué ser competente importa más que la pasión para alcanzar el trabajo de tus sueños (D. Pereda Sancho, Trans.). Asertos._](https://amzn.to/3bet5X4)
