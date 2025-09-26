@@ -3,7 +3,7 @@ title: 🎵 The Prodigy
 description:
 date: 2022-07-30 01:05
 tags:
-  - permanent-notes
+  - references
 ---
 
 A music band that I used to listen to in the late 90's and early 2000's. I still listen to their music, from time to time.

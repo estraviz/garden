@@ -3,7 +3,7 @@ title: 👤 Steve Martin
 description:
 date: 2022-07-30 01:05
 tags:
-  - permanent-notes
+  - references
 ---
 
 References:

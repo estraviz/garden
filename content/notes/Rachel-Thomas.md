@@ -3,7 +3,7 @@ title: 👤 Rachel Thomas
 description:
 date: 2021-07-10 01:05
 tags:
-  - permanent-notes
+  - references
 ---
 
 References:
