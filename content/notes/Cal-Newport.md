@@ -6,13 +6,13 @@ tags:
   - people
 ---
 
-American non-fiction author. Some of his books:
+American non-fiction author.
+
+## `#` Books I've read
 
 - [[So-Good-They-Cant-Ignore-You|So Good They Can't Ignore You]] (2012).
 
----
-
-**References:**
+## `#` References
 
 - [Cal Newport on Wikipedia](https://en.wikipedia.org/wiki/Cal_Newport).
 - [Cal Newport's Website](http://calnewport.com/).

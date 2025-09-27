@@ -87,7 +87,15 @@ const config: QuartzConfig = {
           return (f2.dates?.created?.getTime() ?? 0) - (f1.dates?.created?.getTime() ?? 0)
         }
       }),
-      Plugin.TagPage(),
+      Plugin.TagPage({
+        sort: (a, b) => {
+          const titleA =
+            a.frontmatter?.title?.replace(/^[^\w\s]+/, "").trim().toLowerCase() ?? ""
+          const titleB =
+            b.frontmatter?.title?.replace(/^[^\w\s]+/, "").trim().toLowerCase() ?? ""
+          return titleA.localeCompare(titleB)
+        },
+      }),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

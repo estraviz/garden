@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"El Cuarto Mono" (2017)]]. Genres: Thriller · Mystery · Fiction · Crime · Suspense
+- [[2025-year-in-books|"El Cuarto Mono" (2017)]]. Genres: Thriller · Mystery · Fiction · Crime · Mystery Thriller · Suspense · Horror · Detective · Psychological Thriller
 
 ## `#` References
 

@@ -6,10 +6,10 @@ tags:
   - people
 ---
 
-#### Books I've read
+## `#` Books I've read
 
 - [[2025-year-in-books|"Perdida (Gone Girl)" (2012)]]. Genres: Fiction · Mystery · Thriller · Crime · Suspense
 
-#### References
+## `#` References
 
 - [Gillian Flynn on Wikipedia](https://en.wikipedia.org/wiki/Gillian_Flynn).
