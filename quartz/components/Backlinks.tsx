@@ -11,7 +11,13 @@ const Backlinks: QuartzComponent = ({
   cfg,
 }: QuartzComponentProps) => {
   const slug = simplifySlug(fileData.slug!)
-  const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+  const backlinkFiles = allFiles
+    .filter((file) => file.links?.includes(slug))
+    .sort((a, b) => {
+      const titleA = a.frontmatter?.title?.toLowerCase() ?? ""
+      const titleB = b.frontmatter?.title?.toLowerCase() ?? ""
+      return titleA.localeCompare(titleB)
+    })
   return (
     <div class={classNames(displayClass, "backlinks")}>
       <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
