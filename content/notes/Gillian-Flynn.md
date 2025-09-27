@@ -6,7 +6,7 @@ tags:
   - people
 ---
 
-#### Books
+#### Books I've read
 
 - [[2025-year-in-books|"Perdida (Gone Girl)" (2012)]]. Genres: Fiction · Mystery · Thriller · Crime · Suspense
 
