@@ -3,7 +3,7 @@ title: 👤 Cal Newport
 description:
 date: 2022-07-30 01:05
 tags:
-  - references
+  - people
 ---
 
 American non-fiction author. Some of his books:

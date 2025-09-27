@@ -14,3 +14,5 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Barker-2017-El-Cuarto-Mono.jpg]] | [[J-D-Barker|J. D. Barker]] | 2017 | El Cuarto Mono | Spanish | Jul 25, 2025 | ⭐⭐⭐⭐⭐ |
 | ![[Santiago-2020-El-Mentiroso.jpg]] | [[Mikel-Santiago|Mikel Santiago]] | 2020 | El Mentiroso | Spanish | Jul 28, 2025 | ⭐⭐⭐ |
 | ![[Flynn-2012-Perdida.jpg]] | [[Gillian-Flynn|Gillian Flynn]] | 2012 | Perdida (Gone Girl) | Spanish | Jul 31, 2025 | ⭐⭐⭐⭐⭐ |
+| ![[Pen-2015-Trece-Historias-La-Noria.jpg]] | [[Paul-Pen|Paul Pen]] | 2015 | Trece historias: La Noria | Spanish | Aug 17, 2025 | ⭐⭐⭐ |
+| ![[Ware-2022-La-Chica-Perfecta.jpg]] | [[Ruth-Ware|Ruth Ware]] | 2022 | La chica perfecta (The IT Girl) | Spanish | Aug 17, 2025 | ⭐⭐⭐⭐ |
