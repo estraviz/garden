@@ -79,13 +79,23 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage({
         sort: (f1, f2) => {
-          if (f1.slug?.startsWith("notes/") && f2.slug?.startsWith("notes/")) {
-            const title1 = f1.frontmatter?.title?.replace(/^[^\w\s]+\s*/, '') ?? ''
-            const title2 = f2.frontmatter?.title?.replace(/^[^\w\s]+\s*/, '') ?? ''
+          const isChronologicalFolder = (slug?: string) =>
+            slug?.startsWith("notes/") || slug?.startsWith("posts/")
+
+          if (isChronologicalFolder(f1.slug) && isChronologicalFolder(f2.slug)) {
+            const time1 = f1.dates?.created?.getTime() ?? 0
+            const time2 = f2.dates?.created?.getTime() ?? 0
+            if (time1 !== time2) {
+              return time2 - time1
+            }
+
+            const title1 = f1.frontmatter?.title?.replace(/^[^\w\s]+\s*/, "") ?? ""
+            const title2 = f2.frontmatter?.title?.replace(/^[^\w\s]+\s*/, "") ?? ""
             return title1.localeCompare(title2)
           }
+
           return (f2.dates?.created?.getTime() ?? 0) - (f1.dates?.created?.getTime() ?? 0)
-        }
+        },
       }),
       Plugin.TagPage({
         sort: (a, b) => {
