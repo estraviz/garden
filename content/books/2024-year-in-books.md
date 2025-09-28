@@ -30,7 +30,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Ahrens-2017-How-to-Take-Smart-Notes.jpeg]] | [[Sönke Ahrens]] | 2017 | How to Take Smart Notes (2nd Ed.) | English | Apr 2, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Catmull-2014-Creatividad-S-A.jpeg]] | [[Ed Catmull]] | 2014 | Creatividad, S. A. | Spanish | May 9, 2024 | ⭐⭐⭐ |
 | ![[Isaacson-2023-Elon-Musk.jpeg]] | [[Walter Isaacson]] | 2023 | Elon Musk | Spanish | May 9, 2024 | ⭐⭐⭐⭐ |
-| ![[Brown-Roediger-McDaniel-2014-Maket-It-Stick.jpeg]] | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | 2014 | Make It Stick | English | May 11, 2024 | ⭐⭐⭐⭐⭐ |
+| ![[Brown-Roediger-McDaniel-2014-Maket-It-Stick.jpeg]] | [[Peter C. Brown]], [[Henry L. Roediger III]], [[Mark A. McDaniel]] | 2014 | Make It Stick | English | May 11, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Servigne-Stevens-2015-Colapsologia.jpeg]] | [[Pablo Servigne]], [[Raphaë Stevens]] | 2015 | Colapsología | Spanish | May 15, 2024 | ⭐⭐⭐ |
 | ![[Simon-2022-Miedo.jpeg]] | [[Patricia Simón]] | 2022 | Miedo | Spanish | Jun 3, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Dawkins-1976-El-gen-egoista.jpeg]] | [[Richard Dawkins]] | 1976 | El gen egoísta | Spanish | Jul 5, 2024 | ⭐⭐⭐⭐ |
@@ -41,7 +41,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Isaacson-2007-Einstein.jpeg]] | [[Walter Isaacson]] | 2007 | Einstein | Spanish | Aug 25, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Young-2019-Ultralearning.jpeg]] | [[Scott H. Young]] | 2019 | Ultralearning | English | Aug 25, 2024 | ⭐⭐⭐⭐ |
 | ![[Rees-2018-En-el-futuro.jpeg]] | [[Martin J. Rees]] | 2018 | En el futuro | Spanish | Aug 26, 2024 | ⭐⭐⭐ |
-| ![[Allosso-2022-How-to-Make-Notes-and-Write.jpeg]] | [[Dan Alloso]], [[S. F.Allosso]] | 2022 | How to Make Notes and Write | English | Sep 5, 2024 | ⭐⭐⭐ |
+| ![[Allosso-2022-How-to-Make-Notes-and-Write.jpeg]] | [[Dan Alloso]], S.F. Allosso | 2022 | How to Make Notes and Write | English | Sep 5, 2024 | ⭐⭐⭐ |
 | ![[Tammet-2006-Nacido-en-un-dia-azul.jpeg]] | [[Daniel Tammet]] | 2006 | Nacido en un día azul | Spanish | Sep 14, 2024 | ⭐⭐⭐ |
 | ![[Land-2019-Criada.jpeg]] | [[Stephanie Land]] | 2019 | Criada | Spanish | Sep 18, 2024 | ⭐⭐⭐⭐ |
 | ![[Poundstone-2015-Carl-Sagan.jpeg]] | [[William Poundstone]] | 2015 | Carl Sagan | Spanish | Nov 6, 2024 | ⭐⭐⭐ |
