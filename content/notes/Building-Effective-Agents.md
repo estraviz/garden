@@ -3,6 +3,7 @@ title: 📰 Building Effective Agents - Anthropic (2024)
 description: Some notes about an interesting post by Anthropic.
 date: 2025-05-23 22:00
 tags:
+- post-reviews
 ---
 
 These are my [[Literature Notes]] of the post [_Building effective agents_](https://www.anthropic.com/engineering/building-effective-agents)[^1], by [[Anthropic]].
