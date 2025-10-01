@@ -17,7 +17,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | :---- | :----- | :-------: | :---- | :------- | :------- | :----: |
 | ![[Dalai-Lama-2015-El-arte-de-vivir-eticamente.jpeg]] | [[Dalai Lama]] | 2015 | El arte de vivir éticamente | Spanish | Jan 2, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Tracy-2021-Traguese-ese-sapo.jpeg]] | [[Brian Tracy]] | 2001 | ¡Tráguese ese sapo! | Spanish | Jan 6, 2024 | ⭐⭐⭐ |
-| ![[Hadfield-2013-Guia-de-un-astronauta-para-vivir-en-la-Tierra.jpeg]] | Chris Hadfield | 2013 | Guía de un astronauta para vivir en la Tierra | Spanish | Jan 15, 2024 | ⭐⭐⭐⭐⭐ |
+| ![[Hadfield-2013-Guia-de-un-astronauta-para-vivir-en-la-Tierra.jpeg]] | [[Chris Hadfield]] | 2013 | Guía de un astronauta para vivir en la Tierra | Spanish | Jan 15, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Frank-1947-Diario-de-Anne-Frank.jpeg]] | [[Anne Frank]] | 1947 | Diario de Anne Frank | Spanish | Jan 23, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Cranston-2016-Secuencias-de-una-vida.jpeg]] | [[Bryan Cranston]] | 2016 | Secuencias de una vida | Spanish | Jan 31, 2024 | ⭐⭐⭐⭐ |
 | ![[Perry-2012-La-procastinacion-eficiente.jpeg]] | [[John R. Perry]] | 2012 | La procrastinación eficiente | Spanish | Feb 3, 2024 | ⭐⭐⭐ |
