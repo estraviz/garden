@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"Ready Player One" (2011)]]. Genres: Science Fiction · Fiction · Fantasy · Dystopia · Adventure · Science Fiction Fantasy · Cyberpunk
+- [[2025 Year In Books|"Ready Player One" (2011)]]. Genres: Science Fiction · Fiction · Fantasy · Dystopia · Adventure · Science Fiction Fantasy · Cyberpunk
 
 ## `#` References
 

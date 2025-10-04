@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"Carl Sagan, una vida en el cosmos" (1999)]]. Genres: Science · Biography · Nonfiction · Astronomy · Physics · Biography Memoir · History · Memoir · Space
+- [[2024 Year In Books|"Carl Sagan, una vida en el cosmos" (1999)]]. Genres: Science · Biography · Nonfiction · Astronomy · Physics · Biography Memoir · History · Memoir · Space
 
 ## `#` References
 

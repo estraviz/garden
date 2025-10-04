@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"La chica del tren" (2015)]]. Genres: Fiction · Mystery · Thriller · Book Club · Mystery Thriller · Crime · Suspense
+- [[2025 Year In Books|"La chica del tren" (2015)]]. Genres: Fiction · Mystery · Thriller · Book Club · Mystery Thriller · Crime · Suspense
 
 ## `#` References
 

@@ -8,4 +8,4 @@ tags:
 
 References:
 
-- [Snowball effect](https://en.wikipedia.org/wiki/Snowball_effect) on Wikipedia.
+- [Snowball Effect](https://en.wikipedia.org/wiki/Snowball_effect) on Wikipedia.

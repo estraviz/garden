@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"La chica perfecta" (2022)]]. Genres: Mystery · Thriller · Fiction · Suspense
+- [[2025 Year In Books|"La chica perfecta" (2022)]]. Genres: Mystery · Thriller · Fiction · Suspense
 
 ## `#` References
 

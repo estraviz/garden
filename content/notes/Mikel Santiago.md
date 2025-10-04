@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"El mentiroso" (2020)]]. Genres: Thriller · Suspense · Crime · Mystery · Fiction · Mystery Thriller
+- [[2025 Year In Books|"El mentiroso" (2020)]]. Genres: Thriller · Suspense · Crime · Mystery · Fiction · Mystery Thriller
 
 ## `#` References
 

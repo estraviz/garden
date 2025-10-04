@@ -1,6 +1,6 @@
 ---
 title: 🗓️ My 2️⃣0️⃣2️⃣4️⃣ Year in Books
-date: 2025-05-10
+date: 2024-12-31
 ---
 Below is the list of the books I read during 2024. Here are the statistics:
 

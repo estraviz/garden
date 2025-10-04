@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"How to Make Notes and Write" (2022)]]. Genres: Nonfiction · Writing
+- [[2024 Year In Books|"How to Make Notes and Write" (2022)]]. Genres: Nonfiction · Writing
 
 ## `#` References
 

@@ -1,6 +1,6 @@
 ---
 title: 🗓️ My 2️⃣0️⃣2️⃣3️⃣ Year in Books
-date: 2024-10-04
+date: 2023-12-31
 ---
 Below is the list of the books I read during 2023. Here are the statistics:
 * Total books read: `32 books`.

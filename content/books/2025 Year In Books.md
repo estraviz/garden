@@ -1,6 +1,6 @@
 ---
 title: 🗓️ My 2️⃣0️⃣2️⃣5️⃣ Year in Books
-date: 2025-05-18
+date: 2025-09-30
 ---
 Below is the list of the books I've read during 2025, up to now.
 

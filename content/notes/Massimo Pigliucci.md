@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"Cómo ser un estoico" (2017)]]. Genres: Philosophy · Nonfiction · Self Help · Psychology · Personal Development · History · Spirituality · Mental Health · Education
+- [[2025 Year In Books|"Cómo ser un estoico" (2017)]]. Genres: Philosophy · Nonfiction · Self Help · Psychology · Personal Development · History · Spirituality · Mental Health · Education
 
 ## `#` References
 

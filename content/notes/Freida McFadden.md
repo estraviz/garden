@@ -8,9 +8,9 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"La asistenta" (2022)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Book Club · Suspense · Crime · Psychological Thriller
-- [[2025-year-in-books|"El secreto de la asistenta" (2023)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Suspense · Crime · Book Club · Psychological Thriller
-- [[2025-year-in-books|"La boda de la asistenta" (2025)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Short Stories · Suspense · Crime · Psychological Thriller
+- [[2025 Year In Books|"La asistenta" (2022)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Book Club · Suspense · Crime · Psychological Thriller
+- [[2025 Year In Books|"El secreto de la asistenta" (2023)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Suspense · Crime · Book Club · Psychological Thriller
+- [[2025 Year In Books|"La boda de la asistenta" (2025)]]. Genres: Thriller · Mystery · Fiction · Mystery Thriller · Short Stories · Suspense · Crime · Psychological Thriller
 
 ## `#` References
 

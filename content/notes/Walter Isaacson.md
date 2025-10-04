@@ -8,8 +8,8 @@ tags:
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"Einstein: His Life and Universe" (2007)]]. Genres: Biography · Nonfiction · Science · History · Physics · Biography Memoir · Autobiography · Memoir · Historical
-- [[2024-year-in-books|"Elon Musk" (2023)]]. Genres: Biography · Nonfiction · Business · Technology · History · Biography Memoir · Science · Memoir · Leadership
+- [[2024 Year In Books|"Einstein: His Life and Universe" (2007)]]. Genres: Biography · Nonfiction · Science · History · Physics · Biography Memoir · Autobiography · Memoir · Historical
+- [[2024 Year In Books|"Elon Musk" (2023)]]. Genres: Biography · Nonfiction · Business · Technology · History · Biography Memoir · Science · Memoir · Leadership
 
 ## `#` References
 

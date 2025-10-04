@@ -10,7 +10,7 @@ Commander of the [[International Space Station]]. His version of the song of [[S
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"Guía de un astronauta para vivir en la Tierra" (2013)]]. Genres: Nonfiction · Science · Biography · Space · Memoir · Autobiography · Biography Memoir · Book Club
+- [[2024 Year In Books|"Guía de un astronauta para vivir en la Tierra" (2013)]]. Genres: Nonfiction · Science · Biography · Space · Memoir · Autobiography · Biography Memoir · Book Club
 
 ## `#` References
 

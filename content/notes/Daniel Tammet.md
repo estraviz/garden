@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"Criada" (2015)]]. Genres: Nonfiction · Memoir · Biography · Psychology · Autobiography · Biography Memoir
+- [[2024 Year In Books|"Nacido en un día azul" (2006)]]. Genres: Nonfiction · Memoir · Biography · Psychology · Autobiography · Biography Memoir
 
 ## `#` References
 

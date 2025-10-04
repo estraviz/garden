@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2025-year-in-books|"Aprendizaje infinito: Una guía imperfecta para crear y recorrer tu propio camino" (2025)]]. Genres: Nonfiction
+- [[2025 Year In Books|"Aprendizaje infinito: Una guía imperfecta para crear y recorrer tu propio camino" (2025)]]. Genres: Nonfiction
 
 ## `#` References
 

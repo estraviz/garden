@@ -8,7 +8,7 @@ tags:
 
 ## `#` Books I've read
 
-- [[2024-year-in-books|"Las leyes del Serengeti: Cómo funciona la vida y por qué es importante saberlo" (2016)]]. Genres: Science · Nonfiction · Biology · Nature · Evolution · Ecology · History · Animals
+- [[2024 Year In Books|"Las leyes del Serengeti: Cómo funciona la vida y por qué es importante saberlo" (2016)]]. Genres: Science · Nonfiction · Biology · Nature · Evolution · Ecology · History · Animals
 
 ## `#` References
 
