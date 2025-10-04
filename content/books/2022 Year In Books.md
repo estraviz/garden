@@ -13,7 +13,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | :---- | :----- | :-------: | :---- | :------- | :------- | :----: |
 | ![[Damji-Lee-Wenig-Das-2020-Learning-Spark.jpeg]] | Jules S. Damji, Brooke Wenig, Tathagata Das, Denny Lee | 2020 | Learning Spark (2nd Ed.) | English | Jan 21, 2022 | ⭐⭐⭐⭐ |
 | ![[Jorgenson-2020-El-Almanaque-de-Naval-Ravikant.png]] | Eric Jorgenson | 2020 | El Almanaque de Naval Ravikant | Spanish | May 10, 2022 | ⭐⭐⭐⭐ |
-| ![[Newport-2012-Hazlo-tan-bien-que-no-puedan-ignorarte.jpeg]] | [[Cal Newport]] | 2012 | [[So-Good-They-Cant-Ignore-You|Hazlo tan bien que no puedan ignorarte]] | Spanish | May 31, 2022 | ⭐⭐⭐⭐⭐ |
+| ![[Newport-2012-Hazlo-tan-bien-que-no-puedan-ignorarte.jpeg]] | [[Cal Newport]] | 2012 | [[So Good They Cant Ignore You|Hazlo tan bien que no puedan ignorarte]] | Spanish | May 31, 2022 | ⭐⭐⭐⭐⭐ |
 | ![[Hernandez-2008-Un-perro-en-el-divan.jpeg]] | Pablo Hernández | 2008 | Un perro en el diván | Spanish | Jun 3, 2022 | ⭐⭐⭐ |
 | ![[Bryant-2019-Mentalidad-mamba.jpeg]] | Kobe Bryant | 2019 | Mentalidad mamba | Spanish | Jun 10, 2022 | ⭐⭐⭐⭐ |
 | ![[Kreps-2014-I-Heart-Logs.jpeg]] | Jay Kreps | 2014 | I Heart Logs | English | Jun 17, 2022 | ⭐⭐⭐⭐ |

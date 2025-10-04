@@ -27,7 +27,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Bird-Sherwin-2005-Prometeo-Americano.jpeg]] | [[Kai Bird]], [[Martin J. Sherwin]] | 2005 | Prometeo Americano | Spanish | Mar 18, 2024 | ⭐⭐⭐⭐ |
 | ![[Manson-2019-Todo-esta-j_dido.jpeg]] | [[Mark Manson]] | 2019 | Todo está j\*dido | Spanish | Mar 24, 2024 | ⭐⭐⭐ |
 | ![[Ahrens-2017-El-metodo-Zettelkasten.jpeg]] | [[Sönke Ahrens]] | 2017 | El método Zettelkasten | Spanish | Mar 26, 2024 | ⭐⭐⭐⭐⭐ |
-| ![[Ahrens-2017-How-to-Take-Smart-Notes.jpeg]] | [[Sönke Ahrens]] | 2017 | How to Take Smart Notes (2nd Ed.) | English | Apr 2, 2024 | ⭐⭐⭐⭐⭐ |
+| ![[Ahrens-2022-How-to-Take-Smart-Notes.jpeg]] | [[Sönke Ahrens]] | 2022 | How to Take Smart Notes (2nd Ed.) | English | Apr 2, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Catmull-2014-Creatividad-S-A.jpeg]] | [[Ed Catmull]] | 2014 | Creatividad, S. A. | Spanish | May 9, 2024 | ⭐⭐⭐ |
 | ![[Isaacson-2023-Elon-Musk.jpeg]] | [[Walter Isaacson]] | 2023 | Elon Musk | Spanish | May 9, 2024 | ⭐⭐⭐⭐ |
 | ![[Brown-Roediger-McDaniel-2014-Maket-It-Stick.jpeg]] | [[Peter C. Brown]], [[Henry L. Roediger III]], [[Mark A. McDaniel]] | 2014 | Make It Stick | English | May 11, 2024 | ⭐⭐⭐⭐⭐ |
