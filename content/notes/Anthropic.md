@@ -3,7 +3,7 @@ title: 🤖 Anthropic
 description:
 date: 2025-05-23 22:05
 tags:
-  - references
+  - IA
 ---
 
 

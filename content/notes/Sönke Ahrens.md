@@ -3,7 +3,8 @@ title: 👤 Sönke Ahrens
 description:
 date: 2025-10-04 00:25
 tags:
-  - people
+  - People
+  - Zettelkasten
 ---
 
 ## `#` Books I've read

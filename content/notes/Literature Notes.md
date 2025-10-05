@@ -3,6 +3,7 @@ title: 📝 Literature Notes
 description:
 date: 2025-10-05 00:22
 tags:
+- Zettelkasten
 ---
 
 `Literature Notes` (also known as [[Reference Notes]]) are a type of annotation that consists of recording the page and a brief excerpt of what has been read, something that has caught our attention and that we want to keep in our archive for reference.

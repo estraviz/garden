@@ -3,7 +3,7 @@ title: 👤 Ruth Ware
 description:
 date: 2025-09-27 10:32
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

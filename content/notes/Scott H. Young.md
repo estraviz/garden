@@ -3,7 +3,7 @@ title: 👤 Scott H. Young
 description:
 date: 2025-10-04 23:15
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

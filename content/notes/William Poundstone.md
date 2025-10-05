@@ -3,7 +3,7 @@ title: 👤 William Poundstone
 description:
 date: 2025-09-28 00:12
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

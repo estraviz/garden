@@ -3,7 +3,7 @@ title: 👤 Paul Pen
 description:
 date: 2025-09-27 19:36
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

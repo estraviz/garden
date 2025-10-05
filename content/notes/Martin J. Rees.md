@@ -3,7 +3,7 @@ title: 👤 Martin J. Rees
 description:
 date: 2025-10-04 23:57
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

@@ -3,7 +3,7 @@ title: 👤 Sergio San Juan
 description:
 date: 2025-09-27 15:22
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

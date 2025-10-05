@@ -3,7 +3,7 @@ title: 👤 Paula Hawkins
 description:
 date: 2025-09-27 19:08
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

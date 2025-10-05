@@ -3,7 +3,7 @@ title: 👤 J.D. Barker
 description:
 date: 2025-09-27 01:25
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

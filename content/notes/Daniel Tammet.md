@@ -3,7 +3,7 @@ title: 👤 Daniel Tammet
 description:
 date: 2025-09-28 20:04
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

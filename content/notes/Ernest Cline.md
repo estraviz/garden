@@ -3,7 +3,7 @@ title: 👤 Ernest Cline
 description:
 date: 2025-09-27 19:02
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

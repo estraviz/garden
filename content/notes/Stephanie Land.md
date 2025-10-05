@@ -3,7 +3,7 @@ title: 👤 Stephanie Land
 description:
 date: 2025-09-28 19:58
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

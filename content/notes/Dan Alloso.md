@@ -3,7 +3,7 @@ title: 👤 Dan Allosso
 description:
 date: 2025-09-28 20:44
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

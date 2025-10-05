@@ -3,7 +3,7 @@ title: 👤 Gillian Flynn
 description:
 date: 2025-09-27 01:51
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

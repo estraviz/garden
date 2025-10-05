@@ -3,7 +3,7 @@ title: 👤 Sean B. Carroll
 description:
 date: 2025-09-28 00:07
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

@@ -3,7 +3,7 @@ title: 👤 Mikel Santiago
 description:
 date: 2025-09-27 01:31
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

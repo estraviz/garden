@@ -3,7 +3,7 @@ title: 👤 Walter Isaacson
 description:
 date: 2025-09-28 23:31
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

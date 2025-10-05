@@ -3,7 +3,7 @@ title: 👤 Massimo Pigliucci
 description:
 date: 2025-09-27 15:26
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read

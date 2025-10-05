@@ -3,7 +3,7 @@ title: 👤 Freida McFadden
 description:
 date: 2025-09-27 14:41
 tags:
-  - people
+  - People
 ---
 
 ## `#` Books I've read
