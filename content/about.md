@@ -44,4 +44,4 @@ Feel free to drop me an <i class="fa-solid fa-envelope"></i> [email](mailto:javi
 
 You can also contact me through any of the following sites:
 
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com/estraviz/) · [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://linkedin.com/in/javierestraviz) · [<i class="fa-brands fa-x-twitter"></i> Twitter](https://twitter.com/estraviz) · [<i class="fa-brands fa-mastodon"></i> Mastodon](https://fosstodon.org/@estraviz)· [<i class="fa-brands fa-bluesky"></i> Bluesky](estraviz.bsky.social) · [<i class="fa-brands fa-goodreads-g"></i> Goodreads](https://www.goodreads.com/estraviz)
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/estraviz/) · [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://linkedin.com/in/javierestraviz) · [<i class="fa-brands fa-x-twitter"></i> Twitter](https://twitter.com/estraviz) · [<i class="fa-brands fa-mastodon"></i> Mastodon](https://fosstodon.org/@estraviz)· [<i class="fa-brands fa-bluesky"></i> Bluesky](https://bsky.app/profile/estraviz.bsky.social) · [<i class="fa-brands fa-goodreads-g"></i> Goodreads](https://www.goodreads.com/estraviz)

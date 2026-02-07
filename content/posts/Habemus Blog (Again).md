@@ -3,7 +3,7 @@ title: 📆 Habemus Blog (Again)
 description: About the beneficial effects of having a blog.
 date: 2021-07-10 01:00
 tags:
-  - blog-posts
+  - Blog-Posts
 ---
 I've been thinking[^1] about having a blog for a long time and it's not the first time. As an example, in the [[about]] section of the website I have listed the links to some of the previous blogs that I've created in the past, the ones I've been playing with for some time, without giving too much continuity to the majority of them.
 

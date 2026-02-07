@@ -12,6 +12,6 @@ tags:
 
 ## `#` References
 
-- [Ernest Cline's website](http://www.ernestcline.com).
-- [Ernest Cline's on Goodreads](https://www.goodreads.com/ernestcline).
-- [Ernest Cline's on Wikipedia](https://en.wikipedia.org/wiki/Ernest_Cline).
+- [Paula Hawkins's website](https://www.paulahawkinsweb.com/).
+- [Paula Hawkins's on Goodreads](https://www.goodreads.com/author/show/6876226.Paula_Hawkins).
+- [Paula Hawkins's on Wikipedia](https://en.wikipedia.org/wiki/Paula_Hawkins_(author)).

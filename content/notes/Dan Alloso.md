@@ -13,4 +13,4 @@ tags:
 ## `#` References
 
 - [Dan Allosso's website](https://danallosso.substack.com/).
-- [Dan Allosso on Goodreads](https://www.goodreads.com/author/show/42429.Daniel_Tammet).
+- [Dan Allosso on Goodreads](https://www.goodreads.com/author/show/867754.Dan_Allosso).

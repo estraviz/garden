@@ -3,7 +3,7 @@ title: 📆 Free Your Mind
 description: The evolution of my Blog to a Digital Garden.
 date: 2024-03-28 01:00
 tags:
-  - blog-posts
+  - Blog-Posts
 ---
 
 ![](images/free-your-mind.png)
