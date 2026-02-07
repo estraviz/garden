@@ -6,7 +6,7 @@ tags:
   - Blog-Posts
 ---
 
-![](images/free-your-mind.png)
+![](images/free-your-mind.webp)
 
 > [!QUOTE] Morpheus: "You have to let it all go, Neo. Fear, doubt, and disbelief. Free your mind."
 >
