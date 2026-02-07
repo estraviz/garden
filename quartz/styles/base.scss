@@ -109,20 +109,20 @@ a {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width: $layoutCollapseBreakpoint) {
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width: $layoutCollapseBreakpoint) {
     display: initial;
   }
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width: $layoutCollapseBreakpoint) {
     margin: 0 auto;
     padding: 0 1rem;
     max-width: $pageWidth;
@@ -157,7 +157,7 @@ a {
   & > #quartz-body {
     width: 100%;
     display: flex;
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: $layoutCollapseBreakpoint) {
       flex-direction: column;
     }
 
@@ -172,7 +172,11 @@ a {
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
-      @media all and (max-width: $fullPageWidth) {
+      @media all and (max-width: $fullPageWidth) and (min-width: $layoutCollapseBreakpoint + 1px) {
+        width: calc((100vw - $pageWidth) / 2);
+        padding: 0 1rem;
+      }
+      @media all and (max-width: $layoutCollapseBreakpoint) {
         position: initial;
         flex-direction: row;
         padding: 0;
@@ -184,7 +188,10 @@ a {
     & .sidebar.left {
       z-index: 1;
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      @media all and (max-width: $fullPageWidth) {
+      @media all and (max-width: $fullPageWidth) and (min-width: $layoutCollapseBreakpoint + 1px) {
+        left: 0;
+      }
+      @media all and (max-width: $layoutCollapseBreakpoint) {
         gap: 0;
         align-items: center;
       }
@@ -192,9 +199,12 @@ a {
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      @media all and (max-width: $fullPageWidth) and (min-width: $layoutCollapseBreakpoint + 1px) {
+        right: 0;
+      }
       flex-wrap: wrap;
       & > * {
-        @media all and (max-width: $fullPageWidth) {
+        @media all and (max-width: $layoutCollapseBreakpoint) {
           flex: 1;
           min-width: 140px;
         }
@@ -207,14 +217,14 @@ a {
     width: $pageWidth;
     margin-top: 1rem;
 
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: $layoutCollapseBreakpoint) {
       width: initial;
     }
   }
 
   & .page-header {
     margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: $layoutCollapseBreakpoint) {
       margin-top: 2rem;
     }
   }
@@ -224,7 +234,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
-    @media all and (max-width: $fullPageWidth) {
+    @media all and (max-width: $layoutCollapseBreakpoint) {
       width: initial;
       margin-left: 0;
       margin-right: 0;
