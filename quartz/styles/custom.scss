@@ -38,7 +38,7 @@
 .page-listing ul {
     li {
         a {
-            font-style: small;
+            font-size: small;
             color: var(--secondary);
         }
     }
@@ -51,14 +51,8 @@ a {
     }
 }
 
-.page-header {
-    & .popover-hint ul {
-        & .tags {
-            &.internal.tag-link {
-                color: var(--secondary);
-            }
-        }
-    }
+.page-header .popover-hint ul.tags .internal.tag-link {
+    color: var(--secondary);
 }
 
 footer {
@@ -73,7 +67,6 @@ footer {
     }
 }
 footer p {
-    list-style-type:none;
     display:flex;
     justify-content: center;
 }
@@ -109,16 +102,6 @@ code {
     vertical-align: middle;
     border-radius: 5px;
 }
-
-#footer-links ul {
-    list-style-type: none;
-    li {
-      display: inline-block;
-    }
-    li a {
-      padding: 0 1em;
-    }
-  }
 
 .page {
     border-top: 4px solid #2bbc8a;
