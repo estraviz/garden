@@ -107,6 +107,31 @@ code {
     border-top: 4px solid #2bbc8a;
 }
 
+@media all and (max-width: 600px) {
+    .center article {
+        line-height: 1.62;
+    }
+}
+
+@media all and (min-width: 375px) and (max-width: 600px) {
+    .center article {
+        font-size: 1.08rem;
+        line-height: 1.68;
+    }
+
+    p.content-meta, p.meta {
+        font-size: 0.82rem;
+    }
+
+    .sidebar.right h3 a,
+    #toc-content ul li a,
+    .backlinks ul li a,
+    .page-listing ul li a,
+    a.internal.tag-link {
+        font-size: 0.92rem;
+    }
+}
+
 /*
 img {
     display: block;
