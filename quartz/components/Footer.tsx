@@ -15,21 +15,23 @@ export default ((opts?: Options) => {
     const siteAuthor = "Javier Estraviz"
     return (
       <footer class={`${displayClass ?? ""}`}>
-          <ul>
-              {Object.entries(links).map(
-                  ([text, link]) => {
-                      return (
-                          <li>
-                              <a href={link}>{text}</a>
-                          </li>
-                      )
-                  }
-              )}
-          </ul>
-          <p style="font-size: x-small; text-align: center;">
-          <span>© {year} <a href={linkedinUrl}>{siteAuthor}</a>. {i18n(cfg.locale).components.footer.createdWith}&nbsp;<a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>.</span>
-          </p>
-{/*         <p>
+        <ul>
+          {Object.entries(links).map(([text, link]) => {
+            return (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            )
+          })}
+        </ul>
+        <p style="font-size: x-small; text-align: center;">
+          <span>
+            © {year} <a href={linkedinUrl}>{siteAuthor}</a>.{" "}
+            {i18n(cfg.locale).components.footer.createdWith}&nbsp;
+            <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>.
+          </span>
+        </p>
+        {/*         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>

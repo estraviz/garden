@@ -26,7 +26,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
-/*     if (text) {
+    /*     if (text) {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
@@ -52,43 +52,43 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     } else {
       return null
     } */
-      if (text) {
-        const segments: string[] = []
+    if (text) {
+      const segments: string[] = []
 
-        if (fileData.dates) {
-            const cfgDefaultDate = cfg.defaultDateType
+      if (fileData.dates) {
+        const cfgDefaultDate = cfg.defaultDateType
 
-            if (fileData.dates.created) {
-                cfg.defaultDateType = "created"
-                segments.push("🌱 Created: " + formatDate(getDate(cfg, fileData)!, cfg.locale))
-            }
-
-            if (fileData.dates.modified) {
-                cfg.defaultDateType = "modified"
-                segments.push("🌿 Updated: " + formatDate(getDate(cfg, fileData)!, cfg.locale))
-            }
-            cfg.defaultDateType = cfgDefaultDate
+        if (fileData.dates.created) {
+          cfg.defaultDateType = "created"
+          segments.push("🌱 Created: " + formatDate(getDate(cfg, fileData)!, cfg.locale))
         }
 
-        // Display reading time if enabled
-        if (options.showReadingTime) {
-          const { minutes, words: _words } = readingTime(text)
-          const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
-            minutes: Math.ceil(minutes),
-          })
-          segments.push("Read: " + displayedTime)
+        if (fileData.dates.modified) {
+          cfg.defaultDateType = "modified"
+          segments.push("🌿 Updated: " + formatDate(getDate(cfg, fileData)!, cfg.locale))
         }
+        cfg.defaultDateType = cfgDefaultDate
+      }
 
-        return (
-          <p class={classNames(displayClass, "content-meta")}>
-            {segments.map((segment, index) => (
-              <span class="meta-entry" key={`${index}-${segment}`}>
-                <span class="meta-item">{segment}</span>
-                {index < segments.length - 1 && <span class="meta-separator"> · </span>}
-              </span>
-            ))}
-          </p>
-        )
+      // Display reading time if enabled
+      if (options.showReadingTime) {
+        const { minutes, words: _words } = readingTime(text)
+        const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
+          minutes: Math.ceil(minutes),
+        })
+        segments.push("Read: " + displayedTime)
+      }
+
+      return (
+        <p class={classNames(displayClass, "content-meta")}>
+          {segments.map((segment, index) => (
+            <span class="meta-entry" key={`${index}-${segment}`}>
+              <span class="meta-item">{segment}</span>
+              {index < segments.length - 1 && <span class="meta-separator"> · </span>}
+            </span>
+          ))}
+        </p>
+      )
     } else {
       return null
     }

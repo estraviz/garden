@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header:  "Victor Mono", // "Schibsted Grotesk",
+        header: "Victor Mono", // "Schibsted Grotesk",
         body: "IBM Plex Mono", // "Source Sans Pro", // "MS Reference Sans Serif",
         code: "JetBrains Mono", // "IBM Plex Mono",
       },
@@ -100,9 +100,15 @@ const config: QuartzConfig = {
       Plugin.TagPage({
         sort: (a, b) => {
           const titleA =
-            a.frontmatter?.title?.replace(/^[^\w\s]+/, "").trim().toLowerCase() ?? ""
+            a.frontmatter?.title
+              ?.replace(/^[^\w\s]+/, "")
+              .trim()
+              .toLowerCase() ?? ""
           const titleB =
-            b.frontmatter?.title?.replace(/^[^\w\s]+/, "").trim().toLowerCase() ?? ""
+            b.frontmatter?.title
+              ?.replace(/^[^\w\s]+/, "")
+              .trim()
+              .toLowerCase() ?? ""
           return titleA.localeCompare(titleB)
         },
       }),
