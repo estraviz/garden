@@ -79,7 +79,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           segments.push("Read: " + displayedTime)
         }
 
-        return <p class={classNames(displayClass, "content-meta")}>{segments.join(" · ")}</p>
+        return (
+          <p class={classNames(displayClass, "content-meta")}>
+            {segments.map((segment, index) => (
+              <span class="meta-entry" key={`${index}-${segment}`}>
+                <span class="meta-item">{segment}</span>
+                {index < segments.length - 1 && <span class="meta-separator"> · </span>}
+              </span>
+            ))}
+          </p>
+        )
     } else {
       return null
     }

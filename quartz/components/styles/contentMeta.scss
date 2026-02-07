@@ -1,6 +1,18 @@
 .content-meta {
   margin-top: 0;
   color: var(--gray);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 0.1rem;
+
+  .meta-item {
+    white-space: nowrap;
+  }
+
+  .meta-separator {
+    margin: 0 0.35rem;
+  }
 
   &[show-comma="true"] {
     > span:not(:last-child) {
@@ -9,6 +21,23 @@
       &::after {
         content: ",";
       }
+    }
+  }
+}
+
+@media all and (max-width: 600px) {
+  .content-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 0.04rem;
+    line-height: 1.2;
+
+    .meta-entry {
+      display: block;
+    }
+
+    .meta-separator {
+      display: none;
     }
   }
 }
