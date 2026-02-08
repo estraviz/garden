@@ -8,7 +8,7 @@ tags:
 
 I have read twice this book from [^1],[^2] **[[Cal Newport]]**, a book that I've specially enjoyed:
 
-![](images/Newport-2012-So-Good-They-Cant-Ignore-You.jpeg)
+![[Newport-2012-So-Good-They-Cant-Ignore-You.jpeg]]
 
 Although the title already gave clues as to where things were going, there are serveral conclusions that I didn't see coming so clearly, but once I processed the information, they make perfect sense. Al least for me, the thesis that Cal defends is convincing.
 

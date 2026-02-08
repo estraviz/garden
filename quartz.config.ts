@@ -1,6 +1,33 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+// Light mode alternatives. Keep two options around so you can A/B quickly.
+const lightModePaper = {
+  // Warm, lower-glare "paper" background
+  light: "#f4f1ea",
+  lightgray: "rgba(15, 23, 42, 0.10)",
+  gray: "#64748b",
+  darkgray: "#334155",
+  dark: "#0f172a",
+  secondary: "#2bbc8a",
+  tertiary: "#b45309",
+  highlight: "rgba(43, 188, 138, 0.10)",
+  textHighlight: "#ffe58f80",
+}
+
+const lightModeClean = {
+  // Cooler, more neutral background
+  light: "#f5f7fb",
+  lightgray: "rgba(2, 6, 23, 0.10)",
+  gray: "#64748b",
+  darkgray: "#334155",
+  dark: "#0f172a",
+  secondary: "#2bbc8a",
+  tertiary: "#b91c1c",
+  highlight: "rgba(43, 188, 138, 0.10)",
+  textHighlight: "#ffe58f80",
+}
+
 /**
  * Quartz 4.0 Configuration
  *
@@ -27,17 +54,8 @@ const config: QuartzConfig = {
         code: "JetBrains Mono", // "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#fafafa", // "#faf8f8",
-          lightgray: "rgba(0, 59, 69, 0.15)", // "#e5e5e5",
-          gray: "#597ca5", // "#b8b8b8",
-          darkgray: "#05306B", // "#4e4e4e",
-          dark: "#1d1f21", // "#2b2b2b",
-          secondary: "#2bbc8a", // "#284b63",
-          tertiary: "#ab2a3e", // "#84a59d",
-          highlight: "rgba(0, 59, 69, 0.15)", // "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
+        // Toggle between `lightModePaper` and `lightModeClean`.
+        lightMode: lightModeClean,
         darkMode: {
           light: "#14202b", // "#161618",
           lightgray: "#25333e", // "#393639",

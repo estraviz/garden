@@ -10,7 +10,7 @@ American non-fiction author.
 
 ## `#` Books I've read
 
-- [[So Good They Cant Ignore You]] (2012).
+- [[posts/So Good They Cant Ignore You|So Good They Can't Ignore You]] (2012).
 
 ## `#` References
 
