@@ -7,7 +7,7 @@ tags:
 
 ## `#` Welcome
 
-Hi, my name is `Javier Estraviz` and I'm behind `TheDataIsFlat.com`.
+Hi, my name is [Javier Estraviz](https://linkedin.com/in/javierestraviz) and I'm behind `TheDataIsFlat.com`.
 
 This is the online place I use for registering my notes, based on what I watch online, read, or even think. Notes published here will cover areas of my interest and won't pretend to be in a finished state, or searching perfection. Normally, they won't. They'll evolve with me, through time, enriched and interconnected with other notes.
 

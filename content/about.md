@@ -7,7 +7,7 @@ Hi **$reader** (_imagine your fancy name here_ 😉), thank you for visiting my 
 
 ## `#` Intro
 
-My name is **`Javier Estraviz`** and I'm a **`Data Engineer`**.
+My name is [Javier Estraviz](https://linkedin.com/in/javierestraviz) and I'm a **`Data Engineer`**.
 
 I work in [🔬 **Frontiers**](https://www.frontiersin.org/), the open-access publisher of scientific journals (the 6th largest academic publisher and 3rd most-cited publisher, January 2024).
 
