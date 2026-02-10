@@ -4,6 +4,7 @@ description:
 date: 2025-09-28 23:31
 tags:
   - People
+type: reference
 ---
 
 ## `#` Books I've read

@@ -5,6 +5,7 @@ date: 2025-10-04 00:25
 tags:
   - People
   - Zettelkasten
+type: reference
 ---
 
 ## `#` Books I've read

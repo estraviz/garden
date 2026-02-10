@@ -4,6 +4,7 @@ description:
 date: 2025-09-28 20:04
 tags:
   - People
+type: reference
 ---
 
 Commander of the [[International Space Station]]. His version of the song of [[Space Oddity]] from [[David Bowie]] was [viral on YouTube](https://www.youtube.com/watch?v=KaOC9danxNo&list=RDKaOC9danxNo&start_radio=1).

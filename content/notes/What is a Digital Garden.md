@@ -1,8 +1,9 @@
 ---
-title: 📝 What is a Digital Garden?
+title: 💡 What is a Digital Garden?
 description:
 date: 2021-07-10 00:00
 tags:
+type: point
 ---
 
 A **Digital Garden** is a personal knowledge space on the web where ideas are treated as living things: you plant them, revisit them, connect them, prune, refactor, and polish them. Sometimes they inspire you to create more elaborate articles on a topic.

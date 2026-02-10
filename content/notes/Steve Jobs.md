@@ -4,6 +4,7 @@ description:
 date: 2022-07-30 01:05
 tags:
   - People
+type: reference
 ---
 
 References:
