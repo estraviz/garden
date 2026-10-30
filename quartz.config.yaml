@@ -217,7 +217,6 @@ plugins:
         "📚 books": /books
         "🗃️ notes": /notes
         "❓ about": /about
-        "Javier Estraviz": https://linkedin.com/in/javierestraviz
     layout:
       position: footer
       priority: 50
