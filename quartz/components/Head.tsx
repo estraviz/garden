@@ -1,65 +1,106 @@
 import { i18n } from "../i18n"
-import { FullSlug, joinSegments, pathToRoot } from "../util/path"
-import { JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref } from "../util/theme"
+import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
+import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { unescapeHTML } from "../util/escape"
 
 export default (() => {
-  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
-    const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+  const Head: QuartzComponent = ({
+    cfg,
+    fileData,
+    externalResources,
+    ctx,
+  }: QuartzComponentProps) => {
+    const titleSuffix = cfg.pageTitleSuffix ?? ""
+    const title =
+      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
     const description =
-      fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
-    const { css, js } = externalResources
+      fileData.frontmatter?.socialDescription ??
+      fileData.frontmatter?.description ??
+      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
 
-    const pageSlug = fileData.slug ?? "index"
-    const is404 = pageSlug === "404"
-    const isHome = pageSlug === "index"
+    const { css, js, additionalHead } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
-    const baseDir = is404 ? path : pathToRoot(pageSlug as FullSlug)
+    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/favicon.ico")
-    const pagePath = isHome ? "/" : `/${pageSlug}`
-    const canonicalPath = joinSegments(path, pagePath)
-    const canonicalUrl = new URL(canonicalPath, url.origin).toString()
-    const ogImagePath = new URL(joinSegments(path, "static/og-image.png"), url.origin).toString()
-    const ogType = isHome || is404 ? "website" : "article"
-    const ogLocale = cfg.locale.replace("-", "_")
+
+    const is404 = fileData.slug === "404"
+    const isHome = fileData.slug === "index"
+
+    // Url of current page
+    const socialUrl =
+      is404 || isHome ? url.toString() : joinSegments(url.toString(), fileData.slug!)
     const robotsPolicy = is404 ? "noindex, nofollow" : "index, follow, max-image-preview:large"
+
+    const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const coreStylesheet = css[0]?.content
+    const coreScript = js.find(
+      (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
+    )
 
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
+        {coreScript && coreScript.contentType === "external" && (
+          <link rel="preload" href={coreScript.src} as="script" />
+        )}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            {cfg.theme.typography.title && (
+              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+            )}
           </>
         )}
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        {!is404 && <link rel="canonical" href={canonicalUrl} />}
+
+        {!is404 && <link rel="canonical" href={socialUrl} />}
         <meta name="robots" content={robotsPolicy} />
-        <meta property="og:type" content={ogType} />
-        <meta property="og:url" content={canonicalUrl} />
         <meta property="og:site_name" content={cfg.pageTitle} />
-        <meta property="og:locale" content={ogLocale} />
+        <meta property="og:locale" content={cfg.locale.replace("-", "_")} />
         <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image" content={ogImagePath} />
-        <meta property="og:width" content="1200" />
-        <meta property="og:height" content="675" />
+        <meta property="og:type" content={isHome || is404 ? "website" : "article"} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={ogImagePath} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image:alt" content={description} />
+
+        {!usesCustomOgImage && (
+          <>
+            <meta property="og:image" content={ogImageDefaultPath} />
+            <meta property="og:image:url" content={ogImageDefaultPath} />
+            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta
+              property="og:image:type"
+              content={`image/${getFileExtension(ogImageDefaultPath)?.slice(1) ?? "png"}`}
+            />
+          </>
+        )}
+
+        {cfg.baseUrl && (
+          <>
+            <meta property="twitter:domain" content={cfg.baseUrl}></meta>
+            <meta property="og:url" content={socialUrl}></meta>
+            <meta property="twitter:url" content={socialUrl}></meta>
+          </>
+        )}
+
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
-        {css.map((href) => (
-          <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
-        ))}
+
+        {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
@@ -68,9 +109,16 @@ export default (() => {
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
           integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
-          crossorigin="anonymous"
+          crossOrigin="anonymous"
           referrerpolicy="no-referrer"
         />
+        {additionalHead.map((resource) => {
+          if (typeof resource === "function") {
+            return resource(fileData)
+          } else {
+            return resource
+          }
+        })}
       </head>
     )
   }

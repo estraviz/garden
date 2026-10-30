@@ -4,21 +4,22 @@ This repository contains the source code for my [Digital Garden](https://www.the
 
 I use this site to publish evolving notes, connect ideas over time, and keep a personal knowledge base that stays in motion.
 
-The site is built on top of [Quartz v4](https://quartz.jzhao.xyz/) with custom content organization, layout, and styling.
+The site is built on top of [Quartz v5](https://quartz.jzhao.xyz/) with custom content organization, layout, and styling.
 
 ## Quick structure
 
 - `content/`: notes, posts, books, and images
-- `quartz.config.ts`: global site configuration
-- `quartz.layout.ts`: page layout and component composition
+- `quartz.config.yaml`: site configuration, plugins and layout
+- `quartz.ts`: overrides that YAML cannot express (sort functions)
+- `quartz/components/Head.tsx`: SEO and social metadata
 - `quartz/styles/custom.scss`: custom visual tweaks
 
 ## Local development
 
 ### Prerequisites
 
-- Node.js 20+
-- npm 9+
+- Node.js 22+ (see `.node-version`)
+- npm 10.9.2+
 
 ### Install dependencies
 
@@ -47,13 +48,14 @@ npm run quartz -- build --bundleInfo
 
 ## CI
 
-CI is defined in `.github/workflows/ci.yaml` and runs on `push` and `pull_request` for `v4` and `ver*` branches.
+CI is defined in `.github/workflows/ci.yaml` and runs on `push` and `pull_request` for the `v5` branch.
 
 Current CI steps:
 
 1. `npm ci`
-2. `npm run check`
-3. `npm run quartz -- build --bundleInfo`
+2. `npm run check:ci`
+3. `npm test`
+4. `npx quartz build --bundleInfo`
 
 ## Deployment
 
@@ -61,7 +63,7 @@ Production deploys are handled by Netlify, connected to this GitHub repository.
 
 Typical flow:
 
-1. I push/merge changes into the publishing branch (`v4`).
+1. I push/merge changes into the publishing branch (`v5`).
 2. Netlify detects the update and deploys the site.
 
 ## Upstream relationship (Quartz)
@@ -76,8 +78,8 @@ Example sync flow:
 
 ```bash
 git fetch upstream
-git checkout -b chore/sync-upstream-v4
-git merge upstream/v4
+git checkout -b chore/sync-upstream-v5
+git merge upstream/v5
 ```
 
 ## Attribution and license

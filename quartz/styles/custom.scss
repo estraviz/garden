@@ -1,25 +1,30 @@
-@use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
-.sidebar.left {
-  h1 {
-    font-size: 1.05rem;
-    vertical-align: middle;
-  }
+.page-title {
+  font-size: 1.05rem;
 
-  .page-title .brand-link {
+  a {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 0.45rem;
-  }
-
-  .page-title .site-title-text {
-    overflow-wrap: normal;
-    word-break: normal;
-    hyphens: none;
     line-height: 1.2;
+
+    &::before {
+      content: "";
+      width: clamp(78px, 24vw, 100px);
+      aspect-ratio: 1;
+      background: url("/static/logo.png") center / cover no-repeat;
+      border-radius: 5px;
+      flex-shrink: 0;
+    }
   }
+}
+
+svg.external-icon {
+  max-width: 0.8em;
+  max-height: 0.8em;
 }
 
 .sidebar.right {
@@ -70,23 +75,23 @@ a {
 }
 
 footer {
-  ul {
-    display: flex;
-    justify-content: center;
-    li {
-      a {
-        color: var(--dark);
-      }
-    }
-  }
-}
-footer p {
   display: flex;
-  justify-content: center;
-}
+  flex-direction: column;
+  align-items: center;
 
-footer a {
-  color: var(--dark);
+  ul {
+    order: -1;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  p {
+    font-size: x-small;
+  }
+
+  a {
+    color: var(--dark);
+  }
 }
 
 h2,
@@ -111,19 +116,7 @@ code {
   background-color: var(--shiki-light-bg);
 }
 
-.logo {
-  margin-right: 0;
-  width: clamp(78px, 24vw, 100px);
-  height: auto;
-  aspect-ratio: 1 / 1;
-  background-size: cover;
-  background-repeat: no-repeat;
-  vertical-align: middle;
-  border-radius: 5px;
-  flex-shrink: 0;
-}
-
-.page {
+body {
   border-top: 4px solid #2bbc8a;
 }
 
@@ -189,10 +182,3 @@ code {
     font-size: 0.92rem;
   }
 }
-
-/*
-img {
-    display: block;
-    margin: auto;
-}
-*/
