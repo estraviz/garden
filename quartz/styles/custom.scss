@@ -5,24 +5,6 @@
   font-size: 1.05rem;
 }
 
-// Logo as an illuminated initial: floats left of the lead paragraph, which
-// keeps the logo's height so the following text starts below it, not around it.
-article {
-  --logo-initial: clamp(72px, 20vw, 96px);
-}
-
-img.logo-initial {
-  float: left;
-  width: var(--logo-initial);
-  margin: 0.2rem 1rem 0.4rem 0;
-  border-radius: 5px;
-
-  + p {
-    display: flow-root;
-    min-height: calc(var(--logo-initial) + 0.2rem);
-  }
-}
-
 svg.external-icon {
   max-width: 0.8em;
   max-height: 0.8em;
