@@ -82,6 +82,8 @@ a {
 }
 
 footer {
+  // Quartz dims the footer to 70%, which drops its text under 4.5:1 contrast.
+  opacity: 1;
   container-type: inline-size;
   display: flex;
   flex-direction: column;
