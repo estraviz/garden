@@ -23,17 +23,17 @@ configuration:
       lightMode:
         light: "#f5f7fb"
         lightgray: rgba(2, 6, 23, 0.10)
-        gray: "#64748b"
+        gray: oklch(0.52 0.041 257.4)
         darkgray: "#334155"
         dark: "#0f172a"
-        secondary: "#2bbc8a"
+        secondary: oklch(0.5 0.11 164.3)
         tertiary: "#b91c1c"
         highlight: rgba(43, 188, 138, 0.10)
         textHighlight: "#ffe58f80"
       darkMode:
         light: "#14202b"
         lightgray: "#25333e"
-        gray: "#646464"
+        gray: oklch(0.66 0.02 240)
         darkgray: "#999999"
         dark: "#2bbc8a"
         secondary: "#eeeeee"

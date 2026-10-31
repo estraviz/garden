@@ -1,6 +1,13 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Vivid brand green for decoration only. Text uses --secondary, which is darker
+// in light mode to reach 4.5:1 contrast.
+:root {
+  --brand: oklch(0.709 0.14 164.3);
+}
+
 .page-title {
   font-size: 1.05rem;
 }
@@ -100,7 +107,7 @@ code {
 }
 
 body {
-  border-top: 4px solid #2bbc8a;
+  border-top: 4px solid var(--brand);
 }
 
 @media all and (max-width: 600px) {
