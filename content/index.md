@@ -13,7 +13,7 @@ This is the online place I use for registering my notes, based on what I watch o
 
 ▶️ If this is your first visit or you’d like orientation, check out the 🧭 [[start]] page.
 
-▶ If you want to know a bit more about me, you can visit my ❓[[about]] page.
+▶️ If you want to know a bit more about me, you can visit my ❓[[about]] page.
 
 ## `#` What I'm exploring now
 

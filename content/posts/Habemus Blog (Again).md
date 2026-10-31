@@ -9,7 +9,7 @@ I've been thinking[^1] about having a blog for a long time and it's not the firs
 
 > [!WARNING] **<i class="fa-solid fa-quote-left"></i>Enough!!**
 >
-> _<i class="fa-solid fa-dash"></i>I said to myself._
+> _<i class="fa-solid fa-minus"></i>I said to myself._
 
 I know of the potential benefits of having a blog, among other reasons as a support or aid to the self-study and thinking process. Reflecting on this I've come across a [tweet](https://twitter.com/math_rachel/status/850079201981980673) with the link to a post on <i class="fa-brands fa-medium"></i> [Medium](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045) by [[Rachel Thomas]] [^2] in which she clearly explained the reasons why everyone should have a blog.
 
