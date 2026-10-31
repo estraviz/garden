@@ -8,13 +8,12 @@
   --brand: oklch(0.709 0.14 164.3);
 }
 
-// Fluid type scale: 17px on a 375px phone down to 15px from 1200px up, which keeps
-// the phone size the site already used. Smaller steps divide by --ratio.
+// Fluid type scale: 17px on a 375px phone down to 16px from 1200px up. Smaller steps divide by --ratio.
 :root {
   --narrow: 23.4375;
   --wide: 75;
   --size-narrow: 1.0625;
-  --size-wide: 0.9375;
+  --size-wide: 1;
   --ratio: 1.15;
 
   --fluid: clamp(0rem, (100vw - var(--narrow) * 1rem) / (var(--wide) - var(--narrow)), 1rem);
@@ -122,6 +121,11 @@ body {
 
 code {
   background-color: var(--shiki-light-bg);
+}
+
+// Cap the reading measure; tables, code and images keep the full column.
+article > :where(p, ul, ol, blockquote, h1, h2, h3, h4, h5, h6) {
+  max-width: 72ch;
 }
 
 body {
