@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Victor Mono
-      body: IBM Plex Mono
+      body: IBM Plex Sans
       code: JetBrains Mono
     colors:
       lightMode:
