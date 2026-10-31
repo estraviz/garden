@@ -8,6 +8,24 @@
   --brand: oklch(0.709 0.14 164.3);
 }
 
+// Fluid type scale: 17px on a 375px phone down to 15px from 1200px up, which keeps
+// the phone size the site already used. Smaller steps divide by --ratio.
+:root {
+  --narrow: 23.4375;
+  --wide: 75;
+  --size-narrow: 1.0625;
+  --size-wide: 0.9375;
+  --ratio: 1.15;
+
+  --fluid: clamp(0rem, (100vw - var(--narrow) * 1rem) / (var(--wide) - var(--narrow)), 1rem);
+  --at-narrow: calc(var(--size-narrow) * (1rem - var(--fluid)));
+  --at-wide: calc(var(--size-wide) * var(--fluid));
+
+  --step-0: calc(var(--at-narrow) + var(--at-wide));
+  --step--1: calc(var(--step-0) / var(--ratio));
+  --step--2: calc(var(--step--1) / var(--ratio));
+}
+
 .page-title {
   font-size: 1.05rem;
 }
@@ -20,7 +38,7 @@ svg.external-icon {
 .sidebar.right {
   h3 {
     a {
-      font-size: small;
+      font-size: var(--step--1);
       color: var(--dark);
     }
   }
@@ -29,7 +47,7 @@ svg.external-icon {
 #toc-content ul {
   li {
     a {
-      font-size: small;
+      font-size: var(--step--1);
       color: var(--dark);
     }
   }
@@ -39,7 +57,7 @@ svg.external-icon {
   li {
     a {
       color: var(--dark);
-      font-size: small;
+      font-size: var(--step--1);
     }
   }
 }
@@ -47,7 +65,7 @@ svg.external-icon {
 .page-listing ul {
   li {
     a {
-      font-size: small;
+      font-size: var(--step--1);
       color: var(--secondary);
     }
   }
@@ -56,7 +74,7 @@ svg.external-icon {
 a {
   &.internal.tag-link {
     color: var(--dark);
-    font-size: small;
+    font-size: var(--step--1);
   }
 }
 
@@ -76,7 +94,7 @@ footer {
   }
 
   p {
-    font-size: x-small;
+    font-size: var(--step--2);
   }
 
   a {
@@ -95,11 +113,11 @@ h5 {
 
 p.content-meta,
 p.meta {
-  font-size: x-small;
+  font-size: var(--step--2);
 }
 
 body {
-  font-size: 14px;
+  font-size: var(--step-0);
 }
 
 code {
@@ -154,21 +172,11 @@ body {
 
 @media all and (min-width: 375px) and (max-width: 600px) {
   .center article {
-    font-size: 1.08rem;
     line-height: 1.68;
   }
 
   p.content-meta,
   p.meta {
-    font-size: 0.78rem;
     line-height: 1.25;
-  }
-
-  .sidebar.right h3 a,
-  #toc-content ul li a,
-  .backlinks ul li a,
-  .page-listing ul li a,
-  a.internal.tag-link {
-    font-size: 0.92rem;
   }
 }
