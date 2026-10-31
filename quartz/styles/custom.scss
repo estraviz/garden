@@ -82,6 +82,7 @@ a {
 }
 
 footer {
+  container-type: inline-size;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -90,6 +91,9 @@ footer {
     order: -1;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 0.4em 0.6em;
+    // Fill the row on phones (about 23em of links); keep the body size where it fits.
+    font-size: min(var(--step-0), calc(100cqi / 23));
   }
 
   p {
