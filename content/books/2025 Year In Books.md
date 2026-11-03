@@ -10,7 +10,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | :---- | :----- | :-------: | :---- | :------- | :------- | :----: |
 | ![[Pigliucci-2017-Como-ser-un-estoico.webp]] | [[Massimo Pigliucci]] | 2017 | Cómo ser un estoico | Spanish | May 17, 2025 | ⭐⭐⭐ |
 | ![[San-Juan-2025-Aprendizaje-infinito.jpg]] | [[Sergio San Juan]] | 2025 | Aprendizaje infinito | Spanish | May 17, 2025 | ⭐⭐⭐⭐ |
-| ![[McFadden-2022-La-Asistenta.webp]] | [[Freida McFadden]] | 2025 | La asistenta | Spanish | Jul 22, 2025 | ⭐⭐⭐⭐ |
+| ![[McFadden-2022-La-Asistenta.webp]] | [[Freida McFadden]] | 2022 | La asistenta | Spanish | Jul 22, 2025 | ⭐⭐⭐⭐ |
 | ![[Barker-2017-El-Cuarto-Mono.jpg]] | [[J.D. Barker]] | 2017 | El cuarto mono | Spanish | Jul 25, 2025 | ⭐⭐⭐⭐⭐ |
 | ![[Santiago-2020-El-Mentiroso.webp]] | [[Mikel Santiago]] | 2020 | El mentiroso | Spanish | Jul 28, 2025 | ⭐⭐⭐ |
 | ![[Flynn-2012-Perdida.webp]] | [[Gillian Flynn]] | 2012 | Perdida (Gone Girl) | Spanish | Jul 31, 2025 | ⭐⭐⭐⭐⭐ |
