@@ -21,7 +21,7 @@ This garden is meant to help me:
 
 > [!QUOTE] ...think better, remember more, and build connections between topics.
 
- **think better, remember more, and build connections between topics** I like such as Data Engineering, AI, Learning Systems, Foreign Languages, Photography, Mathematics, Physics, Astronomy, and a ton more.
+The topics I like include Data Engineering, AI, Learning Systems, Foreign Languages, Photography, Mathematics, Physics, Astronomy, and a ton more.
 
 ## `#` How to navigate
 
