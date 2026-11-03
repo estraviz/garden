@@ -13,6 +13,6 @@ type: reference
 
 ## `#` References
 
-- [Paula Hawkins's website](https://www.paulahawkinsweb.com/).
+- [Paula Hawkins's website](https://paulahawkinsbooks.com/).
 - [Paula Hawkins's on Goodreads](https://www.goodreads.com/author/show/6876226.Paula_Hawkins).
 - [Paula Hawkins's on Wikipedia](https://en.wikipedia.org/wiki/Paula_Hawkins_(author)).

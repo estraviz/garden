@@ -12,4 +12,4 @@ A music band that I used to listen to in the late 90's and early 2000's. I still
 References:
 
 - [The Prodigy on Wikipedia](https://en.wikipedia.org/wiki/The_Prodigy).
-- [The Prodigy's Website](http://theprodigy.com/).
+- [The Prodigy's Website](https://theprodigy.com/).

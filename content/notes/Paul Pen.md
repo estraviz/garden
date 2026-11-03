@@ -13,6 +13,6 @@ type: reference
 
 ## `#` References
 
-- [Paul Pen's website](http://www.paulpen.com).
+- [Paul Pen's website](https://paulpen.com/).
 - [Paul Pen's on Goodreads](https://www.goodreads.com/author/show/5028226.Paul_Pen).
 - [Paul Pen's on Wikipedia](https://en.wikipedia.org/wiki/Paul_Pen).
