@@ -30,7 +30,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Ahrens-2022-How-to-Take-Smart-Notes.jpeg]] | [[Sönke Ahrens]] | 2022 | How to Take Smart Notes (2nd Ed.) | English | Apr 2, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Catmull-2014-Creatividad-S-A.jpeg]] | [[Ed Catmull]] | 2014 | Creatividad, S. A. | Spanish | May 9, 2024 | ⭐⭐⭐ |
 | ![[Isaacson-2023-Elon-Musk.jpeg]] | [[Walter Isaacson]] | 2023 | Elon Musk | Spanish | May 9, 2024 | ⭐⭐⭐⭐ |
-| ![[Brown-Roediger-McDaniel-2014-Maket-It-Stick.jpeg]] | [[Peter C. Brown]], [[Henry L. Roediger III]], [[Mark A. McDaniel]] | 2014 | Make It Stick | English | May 11, 2024 | ⭐⭐⭐⭐⭐ |
+| ![[Brown-Roediger-McDaniel-2014-Make-It-Stick.jpeg]] | [[Peter C. Brown]], [[Henry L. Roediger III]], [[Mark A. McDaniel]] | 2014 | Make It Stick | English | May 11, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Servigne-Stevens-2015-Colapsologia.jpeg]] | [[Pablo Servigne]], [[Raphaë Stevens]] | 2015 | Colapsología | Spanish | May 15, 2024 | ⭐⭐⭐ |
 | ![[Simon-2022-Miedo.jpeg]] | [[Patricia Simón]] | 2022 | Miedo | Spanish | Jun 3, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Dawkins-1976-El-gen-egoista.jpeg]] | [[Richard Dawkins]] | 1976 | El gen egoísta | Spanish | Jul 5, 2024 | ⭐⭐⭐⭐ |
