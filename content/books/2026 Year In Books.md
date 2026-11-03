@@ -14,8 +14,8 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Hollins-2020-Learn-Like-a-Polymath.webp]] | [[Peter Hollins]] | 2020 | Learn Like a Polymath | English | Apr 22, 2026 | ⭐⭐⭐ |
 | ![[Hossenfelder-2018-Perdidos-en-las-matematicas.webp]] | [[Sabine Hossenfelder]] | 2018 | Perdidos en las matemáticas | Spanish | May 7, 2026 | ⭐⭐⭐⭐ |
 | ![[Greene-1999-El-universo-elegante.webp]] | [[Brian Greene]] | 1999 | El universo elegante | Spanish | Jun 24, 2026 | ⭐⭐⭐⭐⭐ |
-| ![[Levitt-Dubner-2014-Piensa-como-un-freak.webp]] | [[Steven D Levitt]], [[Stephen J Dubner]] | 2014 | Piensa como un freak | Spanish | Jul 22, 2026 | ⭐⭐⭐ |
-| ![[Meadows-2008-Pensando-en-sistemas.webp]] | [[Donella H Meadows]] | 2008 | Pensando en sistemas | Spanish | Jul 24, 2026 | ⭐⭐⭐⭐ |
+| ![[Levitt-Dubner-2014-Piensa-como-un-freak.webp]] | [[Steven D. Levitt]], [[Stephen J. Dubner]] | 2014 | Piensa como un freak | Spanish | Jul 22, 2026 | ⭐⭐⭐ |
+| ![[Meadows-2008-Pensando-en-sistemas.webp]] | [[Donella H. Meadows]] | 2008 | Pensando en sistemas | Spanish | Jul 24, 2026 | ⭐⭐⭐⭐ |
 | ![[Adams-2013-Como-fracasar-en-casi-todo-y-aun-asi-triunfar.webp]] | [[Scott Adams]] | 2013 | Cómo fracasar en casi todo y aun así triunfar | Spanish | Jul 27, 2026 | ⭐⭐⭐⭐ |
 | ![[Epstein-2019-Amplitud.webp]] | [[David Epstein]] | 2019 | Amplitud (Range) | Spanish | Jul 29, 2026 | ⭐⭐⭐⭐⭐ |
 | ![[Ruiz-Martin-2020-Aprendiendo-a-aprender.webp]] | [[Hector Ruiz Martin]] | 2020 | Aprendiendo a aprender | Spanish | Jul 30, 2026 | ⭐⭐⭐⭐⭐ |
