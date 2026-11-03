@@ -41,7 +41,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Isaacson-2007-Einstein.jpeg]] | [[Walter Isaacson]] | 2007 | Einstein | Spanish | Aug 25, 2024 | ⭐⭐⭐⭐⭐ |
 | ![[Young-2019-Ultralearning.jpeg]] | [[Scott H. Young]] | 2019 | Ultralearning | English | Aug 25, 2024 | ⭐⭐⭐⭐ |
 | ![[Rees-2018-En-el-futuro.jpeg]] | [[Martin J. Rees]] | 2018 | En el futuro | Spanish | Aug 26, 2024 | ⭐⭐⭐ |
-| ![[Allosso-2022-How-to-Make-Notes-and-Write.jpeg]] | [[Dan Alloso]], S.F. Allosso | 2022 | How to Make Notes and Write | English | Sep 5, 2024 | ⭐⭐⭐ |
+| ![[Allosso-2022-How-to-Make-Notes-and-Write.jpeg]] | [[Dan Allosso]], S.F. Allosso | 2022 | How to Make Notes and Write | English | Sep 5, 2024 | ⭐⭐⭐ |
 | ![[Tammet-2006-Nacido-en-un-dia-azul.jpeg]] | [[Daniel Tammet]] | 2006 | Nacido en un día azul | Spanish | Sep 14, 2024 | ⭐⭐⭐ |
 | ![[Land-2019-Criada.jpeg]] | [[Stephanie Land]] | 2019 | Criada | Spanish | Sep 18, 2024 | ⭐⭐⭐⭐ |
 | ![[Poundstone-2015-Carl-Sagan.jpeg]] | [[William Poundstone]] | 2015 | Carl Sagan | Spanish | Nov 6, 2024 | ⭐⭐⭐ |

@@ -18,7 +18,7 @@ _**Notes**: The **Published** date corresponds to the first version of the book.
 | ![[Meadows-2008-Pensando-en-sistemas.webp]] | [[Donella H. Meadows]] | 2008 | Pensando en sistemas | Spanish | Jul 24, 2026 | ⭐⭐⭐⭐ |
 | ![[Adams-2013-Como-fracasar-en-casi-todo-y-aun-asi-triunfar.webp]] | [[Scott Adams]] | 2013 | Cómo fracasar en casi todo y aun así triunfar | Spanish | Jul 27, 2026 | ⭐⭐⭐⭐ |
 | ![[Epstein-2019-Amplitud.webp]] | [[David Epstein]] | 2019 | Amplitud (Range) | Spanish | Jul 29, 2026 | ⭐⭐⭐⭐⭐ |
-| ![[Ruiz-Martin-2020-Aprendiendo-a-aprender.webp]] | [[Hector Ruiz Martin]] | 2020 | Aprendiendo a aprender | Spanish | Jul 30, 2026 | ⭐⭐⭐⭐⭐ |
+| ![[Ruiz-Martin-2020-Aprendiendo-a-aprender.webp]] | [[Héctor Ruiz Martín]] | 2020 | Aprendiendo a aprender | Spanish | Jul 30, 2026 | ⭐⭐⭐⭐⭐ |
 | ![[Nardone-2009-Problem-Solving-Estrategico.webp]] | [[Giorgio Nardone]] | 2009 | Problem Solving Estratégico | Spanish | Aug 8, 2026 | ⭐⭐⭐ |
 | ![[Rohde-2012-The-Sketchnote-Handbook.webp]] | [[Mike Rohde]] | 2012 | The Sketchnote Handbook | English | Aug 17, 2026 | ⭐⭐⭐ |
 | ![[Carroll-2018-The-Bullet-Journal-Method.webp]] | [[Ryder Carroll]] | 2018 | The Bullet Journal Method | English | Sep 10, 2026 | ⭐⭐⭐⭐⭐ |
