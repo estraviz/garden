@@ -13,7 +13,7 @@ I've been thinking[^1] about having a blog for a long time and it's not the firs
 
 I know of the potential benefits of having a blog, among other reasons as a support or aid to the self-study and thinking process. Reflecting on this I've come across a [tweet](https://twitter.com/math_rachel/status/850079201981980673) with the link to a post on <i class="fa-brands fa-medium"></i> [Medium](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045) by [[Rachel Thomas]] [^2] in which she clearly explained the reasons why everyone should have a blog.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reasons I wish I&#39;d started writing blog posts sooner: <a href="https://t.co/hmLihgwOxq">https://t.co/hmLihgwOxq</a> <a href="https://t.co/lMyz4PYBcO">pic.twitter.com/lMyz4PYBcO</a></p>&mdash; Rachel Thomas (@math_rachel) <a href="https://twitter.com/math_rachel/status/850079201981980673?ref_src=twsrc%5Etfw">April 6, 2017</a></blockquote>
+[![[why-you-should-blog.png|Tweet by Rachel Thomas (@math_rachel), April 6, 2017: "Reasons I wish I'd started writing blog posts sooner", with an excerpt of her post "Why you (yes, you) should blog"]]](https://twitter.com/math_rachel/status/850079201981980673)
 
 Having a blog and giving continuity to it gives rise to moments of reflection and facilitates putting ideas into writing, as well as having a space to come back again to recover what you left written down at some point before, something that you may need to review.
 
